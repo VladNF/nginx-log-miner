@@ -1,0 +1,7 @@
+{
+    "report_size": 1000,
+    "report_dir": "../../data/reports",
+    "logs_dir": "../../data/log",
+    "err_to_file": "log_analyzer.log",
+    "err_lines_threshold": 0.01
+}
